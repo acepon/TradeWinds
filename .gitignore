@@ -177,3 +177,7 @@ node_modules/
 .DS_Store
 *.log
 *.pyc
+
+.next/
+out/
+*.env
